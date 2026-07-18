@@ -62,10 +62,8 @@ INSTALLATION:
 DEVELOPER:
   Lisika K
   B.Tech Artificial Intelligence & Data Science
-  ## 👩‍💻 Developer
-
+👩‍💻 DEVELOPER:
 Lisika K
-
 B.Tech Artificial Intelligence & Data Science
 MAIL:lisikalisika6@gmail.com
 🔗 GitHub: 
